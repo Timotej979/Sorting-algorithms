@@ -1,2 +1,2 @@
 # Sorting-algorithms
-A few sorting algorithms writen in Python
+A few sorting algorithm implementations writen in Python
